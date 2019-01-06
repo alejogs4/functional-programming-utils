@@ -1,0 +1,24 @@
+{
+  "name": "functional-programming-utils",
+  "version": "1.0.0",
+  "description": "Simple functional programming library with a collection of helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejogs4/functional-programming-utils.git"
+  },
+  "keywords": [
+    "functional-programming",
+    "javascript",
+    "pure-functions"
+  ],
+  "author": "Alejandro Garcia Serna <alejogs4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejogs4/functional-programming-utils/issues"
+  },
+  "homepage": "https://github.com/alejogs4/functional-programming-utils#readme"
+}
